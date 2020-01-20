@@ -18,7 +18,7 @@ Education
 
 Positions Held
 ======
-* 2017-: McWilliams Center for Cosmology Postdoctoral Prize Fellow
+* 2017-present: McWilliams Center for Cosmology Postdoctoral Prize Fellow
   * Carnegie Mellon University
   * Research Scientist
   * Undergraduate, Graduate Teaching
@@ -30,7 +30,7 @@ Positions Held
   
 Skills
 ======
-* programming languages: Python (primary), ZR, C++
+* programming languages: Python (primary), R, C++
 * software/libraries: Numpy, Scipy, Cython, Multiprocessing, Jupyter, Matplotlib, sklearn, Tensorflow
 * tools: git, Latex
 * databases: SQL
@@ -41,12 +41,14 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+ 
+<!-- 
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->
   
 Teaching
 ======
