@@ -36,7 +36,7 @@ Skills
 * databases: SQL
 * communication: 8+ years of teaching, mentoring students, publishing peer-reviewed articles, and crafting research presentations for technical and non-technical audiences
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
