@@ -80,7 +80,7 @@ Professional Development
 
 Volunteer and Outreach
 ======
-* Conference for Undergraduate Wommen in Physics (CUWiP), "applying to graduate school" panel member, 2020
+* Conference for Undergraduate Women in Physics (CUWiP), "applying to graduate school" panel member, 2020
 * Astronomy on Tap, Pittsburgh (AoTPGH), founder and organizer, 2017-present
 * Astronomy on Tap, New Haven, presenter, 2016
 
